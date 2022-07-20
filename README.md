@@ -20,6 +20,9 @@ The esp32 will be use as a web server to host the web interface and to control t
 ## Project Goal:
 ![Desktop layout](/AC-RemoteControlUx.png?raw=true "Title")
   ```
-  codice recintato,
+  Desktop Web Interface
   ```
 ![Mobile layout](/AC-RemoteControlUxMobile.png?raw=true "Title")
+ ```
+  Mobile Web Interface
+  ```
