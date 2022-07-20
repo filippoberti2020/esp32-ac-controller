@@ -18,7 +18,7 @@ If you don't have Home Assistant this project is perfect for you because it offe
 The esp32 will be use as a web server to host the web interface and to control the air conditioner and temperature sensor.
  
 
-## Project Goal:
+## Interface preview:
 ![Desktop layout](/AC-RemoteControlUx.png?raw=true "Title")
   ```
   Desktop Web Interface
