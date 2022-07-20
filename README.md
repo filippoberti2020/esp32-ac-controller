@@ -1,5 +1,6 @@
 # Esp32 Air Conditioner controller
 Project to control an air conditioner locally and remotely.
+If you don't have Home Assistant this project is perfect for you because it offers a well-done, minimalist interface that allows you to control and manage your air conditioner
 
 ## Parts:
 - Esp32
