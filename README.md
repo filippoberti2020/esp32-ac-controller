@@ -2,10 +2,10 @@
 Project to control an air conditioner locally and remotely.
 
 ## Parts:
--Esp32
--IR Reciver (to read and store the AC command)
--IR Transmitter (to send command to the AC)
--BME280
+- Esp32
+- IR Reciver (to read and store the AC command)
+- IR Transmitter (to send command to the AC)
+- BME280
 
 ## Project Goal:
 - Monitor room temperature
